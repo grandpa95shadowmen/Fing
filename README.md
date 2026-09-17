@@ -225,4 +225,4 @@ Fing is offered as a complete free version with all features and updates include
 Ready to optimize your network management? **Download Fing free today and experience the full capabilities of this powerful tool!**
 
 ---
-**Last updated:** 2026-09-17 18:06:22 UTC
+**Last updated:** 2026-09-17 22:02:09 UTC
